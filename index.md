@@ -5,6 +5,10 @@ published: true
 use-site-title: true
 ---
 
+<div class="img">
+  <img width="200" style = "margin: 0;" src="./img/avatar.jpg" id = "profile">
+</div>
+
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
 I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. 
 My research interests focus on [authoritarian nostalgia](https://www.sanghoonkim.org/publication/dissertation/bookproject/) 
