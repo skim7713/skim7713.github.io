@@ -6,7 +6,7 @@ use-site-title: true
 ---
 
 <div class="img">
-  <img width="200" style = "margin: 0;" src="./img/avatar.jpg" id = "profile">
+  <img width="200" style = "margin: 0;" src="assets/img/avatar.jpg" id = "profile">
 </div>
 
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
