@@ -2,6 +2,8 @@
 layout: page
 title: Research
 published: true
+cover-img: "/assets/img/image.png"
+show-avatar: false
 ---
 
 My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. 
