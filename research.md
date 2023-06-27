@@ -17,9 +17,9 @@ _____________________________
 
 **Authoritarian Nostalgia**
 
-- “Personality Traits, Democratic Support, and Authoritarian Nostalgia.” 2023. *Social Science Quarterly*. 
-- "Authoritarian Legacies and Partisan Bias in Corruption Voting." 2023. *Journal of East Asian Studies.*
-- "Alternative Legacies of Authoritarianism: Pro-dictator Bias in Ideology." 2023. *Party Politics.*
+- [“Personality Traits, Democratic Support, and Authoritarian Nostalgia.”](https://doi.org/10.1111/ssqu.13286) 2023. *Social Science Quarterly*. 
+- ["Authoritarian Legacies and Partisan Bias in Corruption Voting."](https://doi.org/10.1017/jea.2023.5) 2023. *Journal of East Asian Studies.*
+- ["Alternative Legacies of Authoritarianism: Pro-dictator Bias in Ideology."](https://doi.org/10.1177/13540688221083559) 2023. *Party Politics.*
 
 -------------------------------
 
