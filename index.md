@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sanghoon Kim-Leffingwell
+title: 
 published: true
 use-site-title: true
 ---
