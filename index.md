@@ -3,22 +3,16 @@ layout: page
 title: 
 published: true
 use-site-title: true
-output: html_document
+
 ---
 
-
-:::: {style="display: flex;"}
-
-::: {}
 
 <center>
   
 <img src="assets/img/avatar.jpg" width="200" height="200" border-radius="30px" />
 
 </center>
-:::
 
-::: {}
 
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
 I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. 
@@ -32,7 +26,5 @@ a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Sc
 and multiple institutions at the University of Illinois. 
 
 
-:::
 
-::::
 
