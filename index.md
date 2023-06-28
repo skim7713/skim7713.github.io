@@ -8,32 +8,10 @@ use-site-title: true
 
 
 
-
-
-
-<style type="text/css">
-#wrap {
-   width:100%;
-   margin:0 auto;
-}
-#left_col {
-   float:left;
-   width:40%;
-}
-#right_col {
-   float:right;
-   width:60%;
-}
-</style>
-
-<div id="wrap">
-    <div id="left_col">
-        <center>
+ <center>
               <img src="assets/img/avatar.jpg" width="200" height="200" border-radius="30px" />
-          **Sanghoon Kim-Leffingwell**
-        </center>
-    </div>
-    <div id="right_col">    
+</center>
+ 
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
 I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. 
 My research interests focus on [authoritarian nostalgia](https://www.sanghoonkim.org/publication/dissertation/bookproject/) 
@@ -44,7 +22,6 @@ My research has received support from various sources, including a Faculty Grant
 [Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan, 
 a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), 
 and multiple institutions at the University of Illinois. 
-    </div>
-</div>
+
 
 
