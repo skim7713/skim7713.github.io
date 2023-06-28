@@ -7,7 +7,7 @@ use-site-title: true
 
 <center>
   
-![main](assets/img/avatar.jpg)
+![main](assets/img/avatar.jpg){width=20%}
 
 </center>
 
