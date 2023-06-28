@@ -3,6 +3,7 @@ layout: page
 title: 
 published: true
 use-site-title: true
+output: html_document
 ---
 
 
