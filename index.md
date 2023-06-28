@@ -6,7 +6,9 @@ use-site-title: true
 ---
 
 <center>
+  
 ![main](assets/img/avatar.jpg)
+
 </center>
 
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
