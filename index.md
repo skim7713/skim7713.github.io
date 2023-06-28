@@ -7,7 +7,7 @@ use-site-title: true
 
 <center>
   
-<img src="assets/img/avatar.jpg" width="200" height="200" mask=circle maxage=7d />
+<img src="assets/img/avatar.jpg" width="200" height="200" border-radius="30px" />
 
 </center>
 
