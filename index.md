@@ -6,8 +6,12 @@ use-site-title: true
 ---
 
 <center>
+
+<div style="width:200px; height:200px">
   
-![main](assets/img/avatar.jpg){width=20%}
+![Image](assets/img/avatar.jpg)
+
+</div>
 
 </center>
 
