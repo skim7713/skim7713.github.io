@@ -26,5 +26,28 @@ a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Sc
 and multiple institutions at the University of Illinois. 
 
 
+<style type="text/css">
+#wrap {
+   width:100%;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:40%;
+}
+#right_col {
+   float:right;
+   width:60%;
+}
+</style>
+
+<div id="wrap">
+    <div id="left_col">
+        ...
+    </div>
+    <div id="right_col">
+        ...
+    </div>
+</div>
 
 
