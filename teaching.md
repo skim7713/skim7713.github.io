@@ -7,7 +7,7 @@ show-avatar: false
 
 I received an Excellence in Teaching Award in 2023 at Johns Hopkins University and the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019 at the University of Illinois. Teaching evaluations are available upon request.
 
-### Johns Hopkins University, Advanced Academic Programs
+### Johns Hopkins University
 **Instructor**
 - AS470.681 Probability and Statistics (Summer, Fall 2022; Summer 2023)
 - AS470.708 Unleashing Open Data with Python (Summer 2023)
