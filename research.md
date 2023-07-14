@@ -40,7 +40,7 @@ _Selected Working Papers_
 _Selected Working Papers_
 - “Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. _Under review_
 - “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
-- 
+  
 -------------------------------
 
 
