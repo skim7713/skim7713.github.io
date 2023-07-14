@@ -38,8 +38,9 @@ _Selected Working Papers_
 - “Kill Protests with Kindness: Anti-China Protests and China’s Public Diplomacy.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. Forthcoming. *International Studies Quarterly.*
 
 _Selected Working Papers_
-- “Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. *Under review*
+- “Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. _Under review_
 - “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
+- 
 -------------------------------
 
 
