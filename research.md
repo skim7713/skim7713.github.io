@@ -12,6 +12,11 @@ and its effects on voter behavior. In addition, I have developed a separate rese
 economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this 
 can shape voters’ attitudes toward China. Lastly, from my work on corruption, I have developed an interest in studying factors that can promote political accountability. 
 
+My research is organized into the following topical areas on this page: 
+- Authoritarian nostalgia and political behavior,
+- Political economy of anti-China protests
+- Journalism and political accountability.
+
 _____________________________
 
 
@@ -32,6 +37,9 @@ _Selected Working Papers_
 **Political Economy in Asia**
 - “Kill Protests with Kindness: Anti-China Protests and China’s Public Diplomacy.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. Forthcoming. *International Studies Quarterly.*
 
+_Selected Working Papers_
+- “Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. *Under review*
+- “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
 -------------------------------
 
 
