@@ -76,7 +76,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: RM9Rt4gAAAAJ
+  google-scholar: "https://scholar.google.com/citations?user=RM9Rt4gAAAAJ&hl=en"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
