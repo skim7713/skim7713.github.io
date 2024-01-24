@@ -1,10 +1,14 @@
 ---
+layout: post
 title: "The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior (Under Review)"
 collection: book_project
-permalink: /research/main
-authors: 
-- admin
+# permalink: /pubs/main
 
+
+#cover-img: /assets/img/path.jpg
+#thumbnail-img: /assets/img/thumb.png
+#share-img: /assets/img/path.jpg
+tags: [books, test]
 
 # date: ""
 # Publication type.
@@ -14,12 +18,7 @@ authors:
 
 # publication_types: ["7"]
 
-categories: "book_project"
-
-header:
-  image: "image.png"
-  caption: "header"
-  height: 100px
+# categories: "book_project"
 
 ---
 
