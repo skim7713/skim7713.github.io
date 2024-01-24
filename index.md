@@ -8,8 +8,7 @@ use-site-title: true
 
 
  <center>
-  <div style= "float:right;position: relative; top: -80px;">
-   <img src="assets/img/avatar.jpg" width="200" height="250" border-radius="30px" />
+   <img src="assets/img/avatar.jpg" align=right width="200" height="230" border-radius="30px" />
 </center>
  
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
