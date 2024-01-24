@@ -5,10 +5,10 @@ collection: book_project
 # permalink: /pubs/main
 
 
-#cover-img: /assets/img/path.jpg
+cover-img: /assets/img/image.png
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [bookproject, nostalgia]
 
 # date: ""
 # Publication type.
