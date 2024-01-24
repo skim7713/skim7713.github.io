@@ -5,18 +5,12 @@ published: true
 use-site-title: true
 
 ---
-<style type="text/css">
-    .image-left {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      float: right;
-    }
-</style>
+![logo](assets/img/avatar.jpg)
 
  <center>
    <img src="assets/img/avatar.jpg" align=left width="220" height="230" border-radius="30px" />
 </center>
+ &nbsp;&nbsp;
  
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
 I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. 
