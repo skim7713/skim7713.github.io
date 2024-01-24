@@ -5,7 +5,14 @@ published: true
 use-site-title: true
 
 ---
-
+<style type="text/css">
+    .image-left {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      float: right;
+    }
+    </style>
 
  <center>
    <img src="assets/img/avatar.jpg" align=left width="220" height="230" border-radius="30px" />
