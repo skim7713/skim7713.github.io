@@ -12,7 +12,7 @@ use-site-title: true
       margin-right: auto;
       float: right;
     }
-    </style>
+</style>
 
  <center>
    <img src="assets/img/avatar.jpg" align=left width="220" height="230" border-radius="30px" />
