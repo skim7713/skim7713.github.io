@@ -9,7 +9,7 @@ use-site-title: true
 
 
  <center>
-              <img src="assets/img/round.jpg" width="200" height="200" border-radius="30px" />
+              <img src="assets/img/avatar.jpg" width="200" height="200" border-radius="30px" />
 </center>
  
 I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
