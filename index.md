@@ -7,16 +7,13 @@ use-site-title: true
 ---
 <img src="assets/img/avatar.jpg" align=left width="220" height="230" border-radius="30px" style="margin-right: 1.5rem" />
  
-I am a Senior Lecturer and Assistant Director with the Data Analytics and Policy Program at Johns Hopkins University. 
-I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. 
-My research interests focus on [authoritarian nostalgia](/pubs/bookproject/) 
-and related political behavior in post-authoritarian democracies. My regional focus is on South Korea and other Asian democracies. My research has appeared in *Party Politics*, *Journal of East Asian Studies*, and *Social Science Quarterly* and is forthcoming at _International Studies Quarterly_ and _International Journal of Press/Politics_.
-
-My research has received support from various sources, including a Faculty Grant Award from the
-[SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University, a
-[Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan, 
-a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), 
-and multiple institutions at the University of Illinois. 
+I am a Senior Lecturer and Assistant Director of the [Data Analytics and Policy Program](https://advanced.jhu.edu/directory/sanghoon-kim-leffingwell/) and a Faculty Affiliate at the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University. My research interests focus on how democratic frustration and [authoritarian nostalgia](/pubs/bookproject/) have met with a rise in support for authoritarian alternatives in many new democracies. My regional focus is on East and Southeast Asian democracies. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. My research has appeared in *Party Politics*, *Journal of East Asian Studies*, _International Journal of Press/Politics_, *Social Science Quarterly*, and _International Studies Quarterly_.
+ 
+My research has received support from various sources, including a Faculty Grant Award from the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University, a [Taiwan Fellowship](https://taiwanfellowship.ncl.edu.tw/eng/index.aspx) from the Ministry of Foreign Affairs of Taiwan, a Doctoral Fellowship from the [Chiang Ching-kuo Foundation for International Scholarly Exchange](http://www.cckf.org/en/), and multiple institutions at the University of Illinois. 
 
 
+#### Research Interests
+- Comparative politics: Authoritarian nostalgia, political behavior, democratic development
+- International relations: IR and domestic politics, international political economy
+- Political methodology: Experimental methods, causal inference, text analysis
 
