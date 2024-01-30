@@ -16,6 +16,8 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - AS470.669 Mathematics for Data Scientists (Fall 2022; Spring 2023; Spring 2024)
 - AS470.768 Programming and Data Management (Summer 2022)
 
+_____________________________
+
 ### University of Illinois at Urbana-Champaign
 **Instructor**
 - PS230 Introduction to Political Research (Spring 2021, Spring 2022)
@@ -29,6 +31,8 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - PS220 Introduction to Public Policy (Fall 2017)
 - PS322 Law and Public Policy (Spring 2017)
 - PS321 Principles of Public Policy (Fall 2016)
+
+_____________________________
 
 ### ICPSR, University of Michigan
 **Teaching Assistant**
