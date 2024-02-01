@@ -5,7 +5,8 @@ published: true
 use-site-title: true
 #%%style="margin-right: 1.5rem"
 ---
-<img src="assets/img/avatar.jpg" width="220" height="230" border-radius="30px" />
+
+<img src="assets/img/avatar.jpg" align="center" width="220" height="230" border-radius="30px" />
  
 
 I am a Senior Lecturer and Assistant Director of the [Data Analytics and Policy Program](https://advanced.jhu.edu/directory/sanghoon-kim-leffingwell/) and a Faculty Affiliate at the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University. My research interests focus on how democratic frustration and [authoritarian nostalgia](/pubs/bookproject/) have met with a rise in support for authoritarian alternatives in many new democracies. My regional focus is on East and Southeast Asian democracies. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022. My research has appeared in *Party Politics*, *Journal of East Asian Studies*, _International Journal of Press/Politics_, *Social Science Quarterly*, and _International Studies Quarterly_.
