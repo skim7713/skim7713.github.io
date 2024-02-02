@@ -22,6 +22,7 @@ author: Sanghoon Kim-Leffingwell
 navbar-links:
   Home: "index"
   Research: "research"
+  Book Project: "bookproject"
   Teaching: "teaching"
   CV: "/assets/CV/cv.pdf"
 #  Resources:
