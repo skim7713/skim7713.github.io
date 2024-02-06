@@ -6,8 +6,7 @@ published: true
 show-avatar: false
 ---
 
-My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. 
-The primary focus of my research is understanding how democratic frustration and authoritarian nostalgia leads to support for authoritarian alternatives in post-authoritarian countries. In addition, I have developed a separate research project understanding the political economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China. Lastly, from my work on corruption, I have developed an interest in studying factors that can promote political accountability. 
+My research explores authoritarianism and its legacies, with a focus on voter behavior in post-authoritarian democracies. The primary focus of my research is understanding how democratic frustration and authoritarian nostalgia leads to support for authoritarian alternatives in post-authoritarian countries. In addition, I have developed a separate research project understanding the political economy in anti-China sentiment in Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China. Lastly, from my work on corruption, I have developed an interest in studying factors that can promote political accountability. 
 
 My research is organized into the following topical areas on this page: 
 - Authoritarian nostalgia and political behavior
@@ -28,6 +27,8 @@ _Selected Working Papers_
 - "Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach." with Emily Sallenback. _R&R_
 - "Legacies of Nationalism and Authoritarian Retention."
 - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
+- “Learning to Love Dictators: The Effect of Museums Dedicated to Former Dictatorial Rulers.” with Matt Winters.
+- “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.”
 
 -------------------------------
 
