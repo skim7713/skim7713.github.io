@@ -10,11 +10,11 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 ### Johns Hopkins University
 **Instructor**
 - AS470.667 Machine Learning Methods and Applications (Fall 2023)
+- AS470.669 Mathematics for Data Scientists (Fall 2022; Spring 2023; Spring 2024)
 - AS470.681 Probability and Statistics (Summer, Fall 2022; Summer, Fall 2023)
 - AS470.708 Unleashing Open Data with Python (Summer 2023)
-- AS470.854 Fundamentals of Quantitative Methods (Spring 2023)
-- AS470.669 Mathematics for Data Scientists (Fall 2022; Spring 2023; Spring 2024)
 - AS470.768 Programming and Data Management (Summer 2022)
+- AS470.854 Fundamentals of Quantitative Methods (Spring 2023)
 
 _____________________________
 
