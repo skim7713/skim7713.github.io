@@ -34,7 +34,7 @@ _Selected Working Papers_
 
 ### Political Economy in Asia
 **Peer-reviewed Publications**
-- “Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. Forthcoming. _World Development_
+- “Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.” with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. _World Development_
 - [“Kill Protests with Kindness: Anti-China Protests and China’s Public Diplomacy.”](https://doi.org/10.1093/isq/sqad087) with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly.*
 
 _Selected Working Papers_
