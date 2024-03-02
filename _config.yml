@@ -136,11 +136,11 @@ navbar-border-col: "#008547"
 page-col: "#303030"
 text-col: "#ececec"
 link-col: "#00b052"
-hover-col: "#00853E"
+hover-col: "#49ba7e"
 footer-col: "#303030"
 footer-text-col: "#a1a1a1"
 footer-link-col: "#008547"
-footer-hover-col: "#00c95d"
+footer-hover-col: "#49ba7e"
 #49ba7e
 #404040
 #00853E
