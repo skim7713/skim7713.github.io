@@ -13,8 +13,8 @@ My research is organized into the following topical areas on this page:
 - Political economy of anti-China protests
 - Journalism and political accountability
 
-<hr style="border:1px solid white">
-</br>
+<hr style="border:.5px solid white">
+
 
 ## Authoritarian Nostalgia
 **Peer-reviewed Publications**
@@ -30,8 +30,8 @@ _Selected Working Papers_
 - “Learning to Love Dictators: The Effect of Museums Dedicated to Former Dictatorial Rulers.” with Matt Winters.
 - “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.”
 
-<hr style="border:1px solid lightgray">
-</br>
+<hr style="border:.5px solid lightgray">
+
 
 ## Political Economy in Asia
 **Peer-reviewed Publications**
@@ -41,8 +41,8 @@ _Selected Working Papers_
 _Selected Working Papers_
 - “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
   
-<hr style="border:1px solid white">
-</br>
+<hr style="border:.5px solid white">
+
 
 ## Journalism and Political Accountability
 **Peer-reviewed Publications**
