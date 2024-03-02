@@ -19,7 +19,7 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - Programming and Data Management (G, Summer 2022)
 - Fundamentals of Quantitative Methods (G, Spring 2023)
 
-<hr style="border:.5px solid white">
+<hr style="border:.5px solid gray">
 
 
 ### University of Illinois at Urbana-Champaign
@@ -36,7 +36,7 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - Law and Public Policy (U,Spring 2017)
 - Principles of Public Policy (U, Fall 2016)
 
-<hr style="border:.5px solid white">
+<hr style="border:.5px solid gray">
 
 ### ICPSR, University of Michigan
 **Teaching Assistant**
