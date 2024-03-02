@@ -41,7 +41,7 @@ _Selected Working Papers_
 _Selected Working Papers_
 - “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
   
-<hr style="border:.5px light gray">
+<hr style="border:.5px solid gray">
 
 
 ## Journalism and Political Accountability
