@@ -14,9 +14,9 @@ My research is organized into the following topical areas on this page:
 - Journalism and political accountability
 
 <hr style="border:1px solid white">
+</br>
 
-
-### Authoritarian Nostalgia
+## Authoritarian Nostalgia
 **Peer-reviewed Publications**
 - [“Personality Traits, Democratic Support, and Authoritarian Nostalgia.”](https://doi.org/10.1111/ssqu.13286) 2023. *Social Science Quarterly*. 
 - ["Authoritarian Legacies and Partisan Bias in Corruption Voting."](https://doi.org/10.1017/jea.2023.5) 2023. *Journal of East Asian Studies.*
@@ -30,9 +30,10 @@ _Selected Working Papers_
 - “Learning to Love Dictators: The Effect of Museums Dedicated to Former Dictatorial Rulers.” with Matt Winters.
 - “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.”
 
-<hr style="border:1px solid white">
+<hr style="border:1px solid lightgray">
+</br>
 
-### Political Economy in Asia
+## Political Economy in Asia
 **Peer-reviewed Publications**
 - [“Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.”](https://doi.org/10.1016/j.worlddev.2024.106566) with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. _World Development_
 - [“Kill Protests with Kindness: Anti-China Protests and China’s Public Diplomacy.”](https://doi.org/10.1093/isq/sqad087) with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly.*
@@ -41,8 +42,8 @@ _Selected Working Papers_
 - “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
   
 <hr style="border:1px solid white">
+</br>
 
-
-### Journalism and Political Accountability
+## Journalism and Political Accountability
 **Peer-reviewed Publications**
 - [“How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.”](https://doi.org/10.1177/19401612231186939) with Nikki Usher. 2023. *International Journal of Press/Politics*.
