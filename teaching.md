@@ -7,6 +7,9 @@ show-avatar: false
 
 I received an Excellence in Teaching Award in 2023 at Johns Hopkins University and the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019 at the University of Illinois. Teaching evaluations are available upon request. (U: Undergraduate, G: Graduate courses)
 
+<hr style="border:.5px solid gray">
+
+
 ### Johns Hopkins University
 **Instructor**
 - Machine Learning Methods and Applications (G, Fall 2023)
@@ -17,7 +20,7 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - Fundamentals of Quantitative Methods (G, Spring 2023)
 
 <hr style="border:.5px solid white">
-<p>&nbsp;</p>
+
 
 ### University of Illinois at Urbana-Champaign
 **Instructor**
