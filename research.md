@@ -13,7 +13,7 @@ My research is organized into the following topical areas on this page:
 - Political economy of anti-China protests
 - Journalism and political accountability
 
-_____________________________
+<hr style="border:2px MediumSeaGreen">
 
 
 ### Authoritarian Nostalgia
