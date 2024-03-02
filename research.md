@@ -4,6 +4,7 @@ title: Research
 published: true
 #cover-img: "/assets/img/image.png"
 show-avatar: false
+#<hr style="border:.5px solid gray">
 ---
 
 My research explores authoritarianism and its legacies, with a focus on voter behavior in post-authoritarian democracies. The primary focus of my research is understanding how democratic frustration and authoritarian nostalgia leads to support for authoritarian alternatives in post-authoritarian countries. In addition, I have developed a separate research project understanding the political economy in anti-China sentiment in Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China. Lastly, from my work on corruption, I have developed an interest in studying factors that can promote political accountability. 
@@ -13,10 +14,9 @@ My research is organized into the following topical areas on this page:
 - Political economy of anti-China protests
 - Journalism and political accountability
 
-<hr style="border:.5px solid gray">
+---------------
 
-
-## Authoritarian Nostalgia
+### Authoritarian Nostalgia
 **Peer-reviewed Publications**
 - [“Personality Traits, Democratic Support, and Authoritarian Nostalgia.”](https://doi.org/10.1111/ssqu.13286) 2023. *Social Science Quarterly*. 
 - ["Authoritarian Legacies and Partisan Bias in Corruption Voting."](https://doi.org/10.1017/jea.2023.5) 2023. *Journal of East Asian Studies.*
@@ -30,10 +30,10 @@ _Selected Working Papers_
 - “Learning to Love Dictators: The Effect of Museums Dedicated to Former Dictatorial Rulers.” with Matt Winters.
 - “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.”
 
-<hr style="border:.5px solid gray">
 
+---------------
 
-## Political Economy in Asia
+### Political Economy in Asia
 **Peer-reviewed Publications**
 - [“Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.”](https://doi.org/10.1016/j.worlddev.2024.106566) with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. _World Development_
 - [“Kill Protests with Kindness: Anti-China Protests and China’s Public Diplomacy.”](https://doi.org/10.1093/isq/sqad087) with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly.*
@@ -41,9 +41,9 @@ _Selected Working Papers_
 _Selected Working Papers_
 - “Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia.” with Yujeong Yang.
   
-<hr style="border:.5px solid gray">
 
+---------------
 
-## Journalism and Political Accountability
+### Journalism and Political Accountability
 **Peer-reviewed Publications**
 - [“How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.”](https://doi.org/10.1177/19401612231186939) with Nikki Usher. 2023. *International Journal of Press/Politics*.
