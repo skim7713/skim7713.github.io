@@ -16,7 +16,7 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - Programming and Data Management (G, Summer 2022)
 - Fundamentals of Quantitative Methods (G, Spring 2023)
 
-_____________________________
+<hr style="border:1px solid white">
 
 ### University of Illinois at Urbana-Champaign
 **Instructor**
