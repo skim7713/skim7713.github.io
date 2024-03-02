@@ -17,7 +17,7 @@ I received an Excellence in Teaching Award in 2023 at Johns Hopkins University a
 - Fundamentals of Quantitative Methods (G, Spring 2023)
 
 <hr style="border:.5px solid white">
-</br>
+<p>&nbsp;</p>
 
 ### University of Illinois at Urbana-Champaign
 **Instructor**
