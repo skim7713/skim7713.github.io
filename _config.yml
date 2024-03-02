@@ -135,7 +135,7 @@ navbar-text-col: "#ffffff"
 navbar-border-col: "#008547"
 page-col: "#ececec"
 text-col: "#121212"
-link-col: "#00733d"
+link-col: "#00853E"
 hover-col: "#49ba7e"
 footer-col: "#303030"
 footer-text-col: "#121212"
@@ -144,7 +144,7 @@ footer-hover-col: "#189955"
 #49ba7e
 #404040
 #00853E
-
+#00733d
 #Dark theme
 #navbar-col: "#00853e"
 #navbar-text-col: "#ffffff"
