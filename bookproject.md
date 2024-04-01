@@ -8,7 +8,7 @@ collection: book_project
 cover-img: /assets/img/image.png
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
-tags: [bookproject, nostalgia]
+# tags: [bookproject, nostalgia]
 
 # date: ""
 # Publication type.
