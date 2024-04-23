@@ -18,18 +18,18 @@ My research is organized into the following topical areas on this page:
 
 ### Authoritarian Nostalgia
 **Peer-reviewed Publications**
-- ["Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach."][https://doi.org/10.1080/13510347.2024.2333939] with Emily Sallenback. Forthcoming. *Democratization*.
+- ["Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach."](https://doi.org/10.1080/13510347.2024.2333939) with Emily Sallenback. 2024. *Democratization*.
 - [“Personality Traits, Democratic Support, and Authoritarian Nostalgia.”](https://doi.org/10.1111/ssqu.13286) 2023. *Social Science Quarterly*. 
 - ["Authoritarian Legacies and Partisan Bias in Corruption Voting."](https://doi.org/10.1017/jea.2023.5) 2023. *Journal of East Asian Studies.*
 - ["Alternative Legacies of Authoritarianism: Pro-dictator Bias in Ideology."](https://doi.org/10.1177/13540688221083559) 2023. *Party Politics.*
 
 _Selected Working Papers_
 - "Authoritarian Nostalgia, Group Sentiment, and Political Behavior." _R&R_
+- “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.” _Under Review_
 - "Legacies of Nationalism and Authoritarian Retention."
 - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
 - “Learning to Love Dictators: The Effect of Museums Dedicated to Former Dictatorial Rulers.” with Matt Winters.
-- “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.”
-
+- "Did You Miss Me? The Use of Nostalgic Images of Former Dictators in the Media." with Hyein Ko.
 
 ---------------
 
