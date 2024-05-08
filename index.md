@@ -22,12 +22,3 @@ My research has received support from various sources, including a Faculty Grant
 - Political methodology: Experimental methods, causal inference, text analysis
 
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JR2KMVED04"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-JR2KMVED04');
-</script>
