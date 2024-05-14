@@ -9,7 +9,7 @@ use-site-title: true
 <img src="assets/img/avatar.jpg" width="220" height="230" border-radius="30px" />
 </p>
 
-I am a Senior Lecturer and Assistant Director of the [Data Analytics and Policy Program](https://advanced.jhu.edu/directory/sanghoon-kim-leffingwell/) and a Faculty Affiliate at the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University. Starting in Fall 2024, I will join the Department of Political Science at the University of North Texas as an Assistant Professor. 
+I am a Senior Lecturer and Assistant Director of the [Data Analytics and Policy Program](https://advanced.jhu.edu/directory/sanghoon-kim-leffingwell/) and a Faculty Affiliate at the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University. Starting Fall 2024, I will join the Department of Political Science at the University of North Texas as an Assistant Professor. 
 
 My primary research focuses on [authoritarian nostalgia](/bookproject/) and related political behavior in post-authoritarian democracies. I further develop research projects in the intersection of domestic and international politics of China's expansion in Asia. My regional focus is on South Korea and other Asian democracies. I introduce various research methods in answering key research questions, including experiments and text and image analysis. I received my PhD in Political Science at the University of Illinois at Urbana-Champaign in 2022 and MA and BA at Korea University. My research has appeared in _Democratization_, _International Journal of Press/Politics_, _International Studies Quarterly_, *Journal of East Asian Studies*, *Party Politics*, *Social Science Quarterly*, and *World Development*.
 
