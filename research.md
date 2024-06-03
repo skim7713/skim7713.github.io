@@ -25,7 +25,6 @@ My research is organized into the following topical areas on this page:
 
 _Selected Working Papers_
 - "Authoritarian Nostalgia, Group Sentiment, and Political Behavior." _R&R_
-- “Chinese Nationalist Identity and Authoritarian Nostalgia in Taiwan.” _Under Review_
 - "Legacies of Nationalism and Authoritarian Retention."
 - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
 - “Learning to Love Dictators: The Effect of Museums Dedicated to Former Dictatorial Rulers.” with Matt Winters.
