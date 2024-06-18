@@ -24,7 +24,6 @@ navbar-links:
   Book Project: "bookproject"
   Teaching: "teaching"
   CV: "assets/CV/cv.pdf"
-  Author's home: "https://sanghoonkimleffingwell.org"
 
 ################
 # --- Logo --- #
@@ -137,14 +136,14 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#00853E"
-hover-col: "#0085A1"
+hover-col: "#00b856"
 navbar-col: "#00853E"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
-footer-col: "##00853E"
+footer-col: "#00853E"
 footer-text-col: "#ffffff"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#00b856"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
