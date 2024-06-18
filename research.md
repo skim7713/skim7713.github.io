@@ -1,3 +1,7 @@
+---
+title: Research 
+
+---
 
 My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. 
 The primary focus of my research is understanding the role of authoritarian nostalgia as a source of social identity 
