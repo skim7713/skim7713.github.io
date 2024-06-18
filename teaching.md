@@ -1,3 +1,7 @@
+---
+title: Teaching
+---
+
 I received an Excellence in Teaching Award in 2023 at Johns Hopkins University and the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019 at the University of Illinois. Teaching evaluations are available upon request.
 
 ## Johns Hopkins University
