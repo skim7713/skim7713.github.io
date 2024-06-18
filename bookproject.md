@@ -1,5 +1,6 @@
 ---
 title: "The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior (Under Review)"
+image: "/assets/img/image.png"
 
 header:
   image: "/assets/img/image.png"
