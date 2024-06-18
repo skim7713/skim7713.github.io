@@ -1,6 +1,5 @@
-<center>
-![](/assets/img/avatar.jpg){:height="200px" width="200px"}
-</center>
+
+<img align="center" width="200" height="200" src="/assets/img/avatar.jpg">
 
 I am a Senior Lecturer and Assistant Director of the [Data Analytics and Policy Program](https://advanced.jhu.edu/directory/sanghoon-kim-leffingwell/) and a Faculty Affiliate at the [SNF Agora Institute](https://snfagora.jhu.edu) at Johns Hopkins University. I will join the Department of Political Science at the University of North Texas as an Assistant Professor in Fall 2024. 
 
