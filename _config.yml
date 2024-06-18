@@ -20,10 +20,9 @@ author: Sanghoon Kim-Leffingwell
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Research: "research"
-  Book Project:
-  Teaching:
+  Book Project: "bookproject"
+  Teaching: "teaching"
   CV: "assets/CV/cv.pdf"
   Author's home: "https://sanghoonkimleffingwell.org"
 
