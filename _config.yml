@@ -21,7 +21,7 @@ author: Sanghoon Kim-Leffingwell
 
 navbar-links:
   About Me: "aboutme"
-  Research:
+  Research: "research"
   Book Project:
   Teaching:
   CV: "assets/CV/cv.pdf"
