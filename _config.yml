@@ -24,8 +24,8 @@ navbar-links:
   Research:
   Book Project:
   Teaching:
-  CV: "/CV/cv.pdf"
-  Author's home: "https://sanghoonkimleffingwell.com"
+  CV: "assets/CV/cv.pdf"
+  Author's home: "https://sanghoonkimleffingwell.org"
 
 ################
 # --- Logo --- #
@@ -101,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sanghoonkimleffingwell.com"
+url-pretty: "sanghoonkimleffingwell.org"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
