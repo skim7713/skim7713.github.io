@@ -1,10 +1,6 @@
 ---
+title: Book Project
 image: /assets/img/image.png
-
-header:
-  image: "/assets/img/image.png"
-  caption: "header"
-  height: 100px
 ---
 # The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior
 
