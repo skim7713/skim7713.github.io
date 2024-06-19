@@ -30,6 +30,7 @@ My teaching interests include comparative authoritarianism, democratic developme
 - PS220 Introduction to Public Policy (Fall 2017)
 - PS322 Law and Public Policy (Spring 2017)
 - PS321 Principles of Public Policy (Fall 2016)
+
 -------------------
 ## ICPSR, University of Michigan
 ### Teaching Assistant
