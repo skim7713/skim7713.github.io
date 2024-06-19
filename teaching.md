@@ -7,8 +7,9 @@ My teaching interests include comparative authoritarianism, democratic developme
 -------------------
 ## University of North Texas
 - PSCI4661 Politics of Autocracy (Fall 2024)
-  
+<br><br />  
 -------------------
+
 ## Johns Hopkins University
 - AS470.669 Mathematics for Data Scientists (Fall 2022; Spring 2023; Spring 2024)
 - AS470.667 Machine Learning Methods and Applications (Fall 2023)
@@ -16,8 +17,9 @@ My teaching interests include comparative authoritarianism, democratic developme
 - AS470.708 Unleashing Open Data with Python (Summer 2023)
 - AS470.854 Fundamentals of Quantitative Methods (Spring 2023)
 - AS470.768 Programming and Data Management (Summer 2022)
-
+<br><br />
 -------------------
+
 ## University of Illinois Urbana-Champaign
 - PS230 Introduction to Political Research (Spring 2021, Spring 2022)
 - PS241 Comparative Politics in Developing Nations (Online, Spring 2020)
@@ -30,8 +32,9 @@ My teaching interests include comparative authoritarianism, democratic developme
 - PS220 Introduction to Public Policy (Fall 2017)
 - PS322 Law and Public Policy (Spring 2017)
 - PS321 Principles of Public Policy (Fall 2016)
-
+<br><br />
 -------------------
+
 ## ICPSR, University of Michigan
 ### Teaching Assistant
 - Causal Inference for the Social Sciences (Summer 2021)
