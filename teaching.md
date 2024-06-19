@@ -2,7 +2,7 @@
 title: Teaching
 ---
 
-I received an Excellence in Teaching Award in 2023 at Johns Hopkins University and the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019 at the University of Illinois. Teaching evaluations are available upon request.
+My teaching interests include comparative authoritarianism, democratic development, political research methods, and East Asian politics, among others. I received an Excellence in Teaching Award in 2023 at Johns Hopkins University and the A. Belden Fields Award for Excellence in Undergraduate Teaching as a Teaching Assisant in 2019 at the University of Illinois. Teaching evaluations are available upon request.
 
 -------------------
 ## University of North Texas
