@@ -51,10 +51,11 @@ body > main {
 p {
   line-height: 1.5;
   margin: 1.5rem 0;
+  font-size: 1.5rem;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: var(--header-font);
-  font-weight: 600;
+  font-weight: 700;
   line-height: 1.1;
 }
 h1 {
