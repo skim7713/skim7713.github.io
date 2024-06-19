@@ -426,7 +426,7 @@ footer a {
   color: var(--footer-link-col);
 }
 footer .footer-links a {
-  color: var(--footer-link-col);
+  color: var(--text-col);
 }
 footer .footer-links .fa-inverse {
   color: var(--page-col);
