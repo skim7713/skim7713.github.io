@@ -1,6 +1,6 @@
 ---
 title: Research 
-bigimg: "/assets/img/legacy.jpg"
+img: "/assets/img/legacy.jpg"
 ---
 
 My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. 
