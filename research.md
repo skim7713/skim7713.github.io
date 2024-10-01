@@ -37,4 +37,4 @@ The primary focus of my research is understanding how authoritarian legacies sha
 
 ### Local Journalism and Political Accountability
 **Peer-reviewed publications**
-  - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption](https://doi.org/10.1177/19401612231186939)." with Nikki Usher. 2023. *International Journal of Press/Politics*. (Online first)
+  - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption](https://doi.org/10.1177/19401612231186939)." with Nikki Usher. 2024. *International Journal of Press/Politics*. 29(4): 960-982.
