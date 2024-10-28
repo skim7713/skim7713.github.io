@@ -10,7 +10,7 @@ The primary focus of my research is understanding how authoritarian legacies sha
 
 ### Authoritarian Legacies
 **Peer-reviewed publications**
-   - "[Authoritarian Nostalgia, Group Sentiment, and Voter Behavior](https://doi.org/10.1007/s11109-024-09987-x)." *Political Behavior*. [[Replication files](https://doi.org/10.7910/DVN/WEJEGG)]
+   - "[Authoritarian Nostalgia, Group Sentiment, and Voter Behavior](https://doi.org/10.1007/s11109-024-09987-x)." 2024. *Political Behavior*. [[Replication files](https://doi.org/10.7910/DVN/WEJEGG)]
    - "[Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach](https://doi.org/10.1080/13510347.2024.2333939)." with Emily Sallenback. 2024. *Democratization*. 1-23.
    - "[Authoritarian Legacies and Partisan Bias in Corruption Voting: Evidence from South Korea](https://doi.org/10.1017/jea.2023.5)." 2023. *Journal of East Asian Studies*. 23(2): 241-262.
    - "[Personality Traits, Democratic Support, and Authoritarian Nostalgia](https://doi.org/10.1111/ssqu.13286)." 2023. *Social Science Quarterly*. 104(5): 619-635.
