@@ -27,7 +27,7 @@ The primary focus of my research is understanding how authoritarian legacies sha
 
 ### Political Economy in Asia
 **Peer-reviewed publications**
-  - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad](https://doi.org/10.1016/j.worlddev.2024.106566)." with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. 
+  - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad](https://doi.org/10.1016/j.worlddev.2024.106566)." with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. [[Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH7JHS)]
   - "[Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy](https://doi.org/10.1093/isq/sqad087)." with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly*. 67(4): sqad087. [[Replication files](https://dataverse.harvard.edu/dataverse/isq.)]
 
 **Working Papers**
