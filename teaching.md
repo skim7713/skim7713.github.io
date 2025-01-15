@@ -6,6 +6,7 @@ My teaching interests include comparative authoritarianism, democratic developme
 
 -------------------
 ## University of North Texas
+- PSCI4300/5300 Visualizing Political Data (Spring 2025)
 - PSCI4661 Politics of Autocracy (Fall 2024)
 <br><br />
 
