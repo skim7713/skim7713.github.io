@@ -1,51 +1,51 @@
-﻿Item,Requirements,Min.Hearts.Restored,Max.Hearts.Restores,Min.Selling.Price,Max.Selling.Price,
-Fruit and Mushroom Mix,Any fruit + any mushroom,2,26,10,190,
-Gourmet Meat and Seafood Fry,Raw Gourmet Meat/Raw Bird Thigh + any fish,8,26,80,450,
-Meat and Seafood Fry,Raw Meat/Raw Bird Drumstick + any fish,4,10,30,250,
-Spicy Pepper Seafood,Any fish + Spicy Pepper,3,9,20,240,
-Spicy Pepper Steak,Any meat + Spicy Pepper,3,25,20,100,
-Prime Meat and Seafood Fry,Raw Prime Meat/Raw Bird Thigh + any fish,5,11,40,270,
-Steamed Fish,Any fish + any vegetable,2,24,20,400,
-Steamed Fruit,Any fruit + any vegetable,1,28,10,380,
-Steamed Meat,Any meat + any vegetable,2,28,20,100,
-Steamed Mushrooms,Any mushroom + any vegetable,1,18,10,380,
-Creamy Meat Soup,Any raw meat + any herb + Fresh Milk + Rock Salt,3,15,40,240,
-Glazed Meat,Any meat + Courser Bee Honey,6,28,40,420,
-Gourmet Meat and Rice Bowl,Raw Gourmet Meat/Raw Whole Bird + Hylian Rice + Rock Salt,9,20,90,310,
-Gourmet Meat Curry,Raw Gourmet Meat + Hylian Rice + Goron Spice,8,20,90,320,
-Gourmet Meat Stew,Raw Gourmet Meat + Goat Butter + Fresh Milk + Tabantha Wheat,9,20,110,230,
-Gourmet Poultry Curry,Raw Whole Bird + Hylian Rice + Goron Spice,8,20,90,320,
-Gourmet Poultry Pilaf,Raw Whole Bird + Bird Egg + Goat Butter + Hylian Rice,10,16,110,230,
-Meat and Rice Bowl,Raw Meat/Raw Bird Drumstick + Hylian Rice + Rock Salt,4,8,30,90,
-Meat Curry,Raw Meat + Hylian Rice + Goron Spice,4,8,40,90,
-Meat Pie,Any raw meat + Tabantha Wheat + Goat Butter + Rock Salt,4,14,40,220,
-Meat Stew,Raw Meat + Goat Butter + Fresh Milk + Tabantha Wheat,5,10,40,70,
-Meat-Stuffed Pumpkins,Any raw meat + Fortified Pumpkin,3,27,30,410,
-Meaty Rice Balls,Any raw meat + Hylian Rice,4,26,20,400,
-Poultry Curry,Raw Bird Drumstick + Hylian Rice + Goron Spice,6,8,40,90,
-Poultry Pilaf,Raw Bird Drumstick + Bird Egg + Goat Butter + Hylian Rice,6,8,40,70,
-Prime Meat and Rice Bowl,Raw Prime Meat/Raw Bird Thigh + Hylian Rice + Rock Salt,5,11,50,140,
-Prime Meat Curry,Raw Prime Meat + Hylian Rice + Goron Spice,5,11,50,150,
-Prime Meat Stew,Raw Prime Meat + Goat Butter + Fresh Milk + Tabantha Wheat,6,12,60,110,
-Prime Poultry Curry,Raw Bird Thigh + Hylian Rice + Goron Spice,5,11,50,150,
-Prime Poultry Pilaf,Raw Bird Thigh + Bird Egg + Goat Butter + Hylian Rice,7,10,60,110,
-Salt-Grilled Gourmet Meat,Raw Gourmet Meat/Raw Whole Bird + Rock Salt,9,24,70,400,
-Salt-Grilled Meat,Raw Meat/Raw Bird Drumstick + Rock Salt,2,8,20,100,
-Salt-Grilled Prime Meat,Raw Prime Meat/Raw Bird Thigh + Rock Salt,3,12,30,180,
-Clam Chowder,Hearty Blueshell Snail + Goat Butter + Fresh Milk + Tabantha Wheat,,11,60,130,
-Crab Omelet with Rice,Any crab + Bird Egg + Rock Salt + Hylian Rice,6,14,40,110,
-Crab Stir-Fry,Any crab + Goron Spice,2,26,30,130,
-Crab Risotto,Any crab + Rock Salt + Hylian Rice + Goat Butter,4,10,50,110,
-Creamy Seafood Soup,Any seafood + any herb + Rock Salt + Fresh Milk,3,22,20,160,
-Fish Pie,Any seafood + Rock Salt + Goat Butter + Tabantha Wheat,4,6,40,140,
-Glazed Seafood,Any seafood + Courser Bee Honey,6,18,30,260,
-Porgy Meunière,Any porgy + Goat Butter + Tabantha Wheat,2,6,40,160,
-Salmon Meunière,Hearty Salmon + Goat Butter + Tabantha Wheat,,14,40,160,
-Salmon Risotto,Hearty Salmon + Rock Salt + Hylian Rice + Goat Butter,,14,50,110,
-Salt-Grilled Crab,Any crab + Rock Salt,2,26,30,120,
-Salt-Grilled Fish,Any fish + Rock Salt,2,14,20,240,
-Seafood Meunière,Any seafood + Goat Butter + Tabantha Wheat,2,6,40,160,
-Seafood Rice Balls,Any fish + Hylian Rice,4,10,20,240,
-Seafood Curry,Hearty Blueshell Snail or any Porgy + Hylian Rice + Goron Spice,4,20,40,180,
-Seafood Fried Rice,Hearty Blueshell Snail or any Porgy + Hylian Rice + Rock Salt,4,18,40,180,
-Seafood Paella,Any porgy + Hearty Blueshell Snail + Rock Salt + Goat Butter + Hylian Rice,12,12,100,100,
+﻿Item,Requirements,Min.Hearts.Restored,Max.Hearts.Restores,Min.Selling.Price,Max.Selling.Price
+Fruit and Mushroom Mix,Any fruit + any mushroom,2,26,10,190
+Gourmet Meat and Seafood Fry,Raw Gourmet Meat/Raw Bird Thigh + any fish,8,26,80,450
+Meat and Seafood Fry,Raw Meat/Raw Bird Drumstick + any fish,4,10,30,250
+Spicy Pepper Seafood,Any fish + Spicy Pepper,3,9,20,240
+Spicy Pepper Steak,Any meat + Spicy Pepper,3,25,20,100
+Prime Meat and Seafood Fry,Raw Prime Meat/Raw Bird Thigh + any fish,5,11,40,270
+Steamed Fish,Any fish + any vegetable,2,24,20,400
+Steamed Fruit,Any fruit + any vegetable,1,28,10,380
+Steamed Meat,Any meat + any vegetable,2,28,20,100
+Steamed Mushrooms,Any mushroom + any vegetable,1,18,10,380
+Creamy Meat Soup,Any raw meat + any herb + Fresh Milk + Rock Salt,3,15,40,240
+Glazed Meat,Any meat + Courser Bee Honey,6,28,40,420
+Gourmet Meat and Rice Bowl,Raw Gourmet Meat/Raw Whole Bird + Hylian Rice + Rock Salt,9,20,90,310
+Gourmet Meat Curry,Raw Gourmet Meat + Hylian Rice + Goron Spice,8,20,90,320
+Gourmet Meat Stew,Raw Gourmet Meat + Goat Butter + Fresh Milk + Tabantha Wheat,9,20,110,230
+Gourmet Poultry Curry,Raw Whole Bird + Hylian Rice + Goron Spice,8,20,90,320
+Gourmet Poultry Pilaf,Raw Whole Bird + Bird Egg + Goat Butter + Hylian Rice,10,16,110,230
+Meat and Rice Bowl,Raw Meat/Raw Bird Drumstick + Hylian Rice + Rock Salt,4,8,30,90
+Meat Curry,Raw Meat + Hylian Rice + Goron Spice,4,8,40,90
+Meat Pie,Any raw meat + Tabantha Wheat + Goat Butter + Rock Salt,4,14,40,220
+Meat Stew,Raw Meat + Goat Butter + Fresh Milk + Tabantha Wheat,5,10,40,70
+Meat-Stuffed Pumpkins,Any raw meat + Fortified Pumpkin,3,27,30,410
+Meaty Rice Balls,Any raw meat + Hylian Rice,4,26,20,400
+Poultry Curry,Raw Bird Drumstick + Hylian Rice + Goron Spice,6,8,40,90
+Poultry Pilaf,Raw Bird Drumstick + Bird Egg + Goat Butter + Hylian Rice,6,8,40,70
+Prime Meat and Rice Bowl,Raw Prime Meat/Raw Bird Thigh + Hylian Rice + Rock Salt,5,11,50,140
+Prime Meat Curry,Raw Prime Meat + Hylian Rice + Goron Spice,5,11,50,150
+Prime Meat Stew,Raw Prime Meat + Goat Butter + Fresh Milk + Tabantha Wheat,6,12,60,110
+Prime Poultry Curry,Raw Bird Thigh + Hylian Rice + Goron Spice,5,11,50,150
+Prime Poultry Pilaf,Raw Bird Thigh + Bird Egg + Goat Butter + Hylian Rice,7,10,60,110
+Salt-Grilled Gourmet Meat,Raw Gourmet Meat/Raw Whole Bird + Rock Salt,9,24,70,400
+Salt-Grilled Meat,Raw Meat/Raw Bird Drumstick + Rock Salt,2,8,20,100
+Salt-Grilled Prime Meat,Raw Prime Meat/Raw Bird Thigh + Rock Salt,3,12,30,180
+Clam Chowder,Hearty Blueshell Snail + Goat Butter + Fresh Milk + Tabantha Wheat,,11,60,130
+Crab Omelet with Rice,Any crab + Bird Egg + Rock Salt + Hylian Rice,6,14,40,110
+Crab Stir-Fry,Any crab + Goron Spice,2,26,30,130
+Crab Risotto,Any crab + Rock Salt + Hylian Rice + Goat Butter,4,10,50,110
+Creamy Seafood Soup,Any seafood + any herb + Rock Salt + Fresh Milk,3,22,20,160
+Fish Pie,Any seafood + Rock Salt + Goat Butter + Tabantha Wheat,4,6,40,140
+Glazed Seafood,Any seafood + Courser Bee Honey,6,18,30,260
+Porgy Meunière,Any porgy + Goat Butter + Tabantha Wheat,2,6,40,160
+Salmon Meunière,Hearty Salmon + Goat Butter + Tabantha Wheat,,14,40,160
+Salmon Risotto,Hearty Salmon + Rock Salt + Hylian Rice + Goat Butter,,14,50,110
+Salt-Grilled Crab,Any crab + Rock Salt,2,26,30,120
+Salt-Grilled Fish,Any fish + Rock Salt,2,14,20,240
+Seafood Meunière,Any seafood + Goat Butter + Tabantha Wheat,2,6,40,160
+Seafood Rice Balls,Any fish + Hylian Rice,4,10,20,240
+Seafood Curry,Hearty Blueshell Snail or any Porgy + Hylian Rice + Goron Spice,4,20,40,180
+Seafood Fried Rice,Hearty Blueshell Snail or any Porgy + Hylian Rice + Rock Salt,4,18,40,180
+Seafood Paella,Any porgy + Hearty Blueshell Snail + Rock Salt + Goat Butter + Hylian Rice,12,12,100,100
