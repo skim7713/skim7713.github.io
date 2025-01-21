@@ -24,7 +24,7 @@ navbar-links:
   Research: "research"
   Book Project: "bookproject"
   Teaching: "teaching"
-  Travel: "travels"
+ # Travel: "travels"
   CV: "assets/CV/cv.pdf"
 
 ################
