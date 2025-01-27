@@ -1,0 +1,52 @@
+﻿state,state_abb,growth
+Connecticut,CT,7.5
+Maine ,ME,7.8
+Massachusetts ,MA,5.8
+New Hampshire ,NH,7.1
+Rhode Island ,RI,6.5
+Vermont ,VT,6.1
+Delaware ,DE,6
+District of Columbia ,DC,6.5
+Maryland ,MD,6.3
+New Jersey,NJ,6.4
+New York,NY,5.8
+Pennsylvania ,PA,6.2
+Illinois ,IL,5.6
+Indiana,IN,5.5
+Michigan ,MI,7.5
+Ohio ,OH,6.3
+Wisconsin ,WI,6.9
+Iowa ,IA,4.6
+Kansas,KS,7.3
+Minnesota ,MN,6.2
+Missouri ,MO,7.5
+Nebraska,NE,8.2
+North Dakota ,ND,3.1
+South Dakota ,SD,7.2
+Alabama ,AL,7
+Arkansas,AR,5.9
+Florida ,FL,9.2
+Georgia ,GA,6.7
+Kentucky,KY,6.9
+Louisiana ,LA,5.6
+Mississippi ,MS,5.9
+North Carolina ,NC,8.2
+South Carolina ,SC,8.4
+Tennessee ,TN,7
+Virginia ,VA,8
+West Virginia ,WV,3.9
+Arizona ,AZ,8
+New Mexico,NM,5.4
+Oklahoma,OK,4.4
+Texas,TX,6
+Colorado ,CO,7.1
+Idaho ,ID,7.7
+Montana ,MT,6.6
+Utah ,UT,7.8
+Wyoming ,WY,4.4
+Alaska ,AK,2.7
+California ,CA,5.7
+Hawaii ,HI,6.9
+Nevada,NV,8.2
+Oregon ,OR,6.7
+Washington,WA,8.7
