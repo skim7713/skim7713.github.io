@@ -18,10 +18,11 @@ The primary focus of my research is understanding how authoritarian legacies sha
 
 **Working Papers**
    - "Authoritarian Nostalgia.'' In *Encyclopedia of Authoritarianism* edited by Thomas Ambrosio and Stephen Hall. Edward Elgar Publishing. 
+   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang.
+   - "Did You Miss Me? The Use of Nostalgic Images of Former Dictators in the Media." with Hyein Ko
    - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
    - "Nationalist Legacies and Authoritarian Retention."
    - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
-   - "Did You Miss Me? The Use of Nostalgic Images of Former Dictators in the Media." with Hyein Ko
 
 ----------------------
 
@@ -29,9 +30,6 @@ The primary focus of my research is understanding how authoritarian legacies sha
 **Peer-reviewed publications**
   - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad](https://doi.org/10.1016/j.worlddev.2024.106566)." with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. [[Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH7JHS)]
   - "[Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy](https://doi.org/10.1093/isq/sqad087)." with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly*. 67(4): sqad087. [[Replication files](https://dataverse.harvard.edu/dataverse/isq.)]
-
-**Working Papers**
-   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang.
 
 ----------------------
 
