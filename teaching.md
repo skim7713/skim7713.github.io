@@ -24,6 +24,7 @@ My teaching interests include comparative authoritarianism, democratic developme
 -------------------
 
 ## University of Illinois Urbana-Champaign
+### Instructor
 - PS230 Introduction to Political Research (Spring 2021, Spring 2022)
 - PS241 Comparative Politics in Developing Nations (Online, Spring 2020)
 - GLBL296 Global Politics of Intellectual Property Protection (Spring 2019)
