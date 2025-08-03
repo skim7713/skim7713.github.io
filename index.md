@@ -1,8 +1,4 @@
----
-feature-img: assets/img/book.png
-header:
-  - image: assets/img/book.png
----
+
 <p align="center">
   <img width="200" src="/assets/img/avatar.jpg">
 </p>
