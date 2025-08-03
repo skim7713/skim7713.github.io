@@ -1,12 +1,13 @@
 ---
 
 title: Book Project
-feature-img: /assets/img/legacy.png
+feature-img: /assets/img/legacy.jpg
 
 header:
-  - image: /assets/img/book.png
+  - image: /assets/img/legacy.jpg
 
 ---
+
 
 # The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior
 <br><br />
