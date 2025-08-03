@@ -1,11 +1,9 @@
 ---
-
 title: Book Project
 feature-img: /assets/img/legacy.jpg
 
 header:
   - image: /assets/img/legacy.jpg
-
 ---
 
 
