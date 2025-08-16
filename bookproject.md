@@ -8,10 +8,10 @@ header:
 
 
 # The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior
+
+
+ <img align="top" width="500" height="350" src="/assets/img/troika.jpeg" alt="My Image">
 <br><br />
-
- <img align="top" width="500" height="400" src="/assets/img/troika.jpeg" alt="My Image">
-
 
 More than three decades has passed since the Third Wave of democratization at the end of the twentieth century. While the statues and statutes of former dictators have long been destroyed, nostalgia for the former dictatorship still drives individual political attitudes and related behavior in many democracies. Among sixty-five Third Wave democracies, former authoritarian ruling parties are still active in democratic elections across forty-seven countries, with twenty-eight of them winning more than 20% of vote share. Authoritarian successors have returned to power from Eastern Europe and Latin America to East and Southeast Asia, as exemplified by Park Geun-Hye in South Korea and Ferdinand Marcos Jr. in the Philippines, among others. This lingering political legacy of former dictatorships begs the following questions: Why do voters support politicians who frequently reference back to a former dictatorship? And why is the nostalgic rhetoric effective in some countries but not in others?  <br><br />
 
