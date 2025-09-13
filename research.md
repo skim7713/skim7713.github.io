@@ -17,11 +17,10 @@ The primary focus of my research is understanding how authoritarian legacies sha
    - "[Alternative Legacies of Authoritarianism: Pro-dictator Bias in Ideology.](https://doi.org/10.1177/13540688221083559)" 2023. *Party Politics*. 29(3): 580-586. 
 
 **Working Papers**
+   - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](www.sanghoonkimleffingwell.org/pixelated)" with Hyein Ko.
    - "Authoritarian Nostalgia.'' In *Encyclopedia of Authoritarianism* edited by Thomas Ambrosio and Stephen Hall. Edward Elgar Publishing. 
    - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang.
-   - "Did You Miss Me? The Use of Nostalgic Images of Former Dictators in the Media." with Hyein Ko
    - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
-   - "Nationalist Legacies and Authoritarian Retention."
    - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
 
 ----------------------
