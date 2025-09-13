@@ -1,5 +1,5 @@
 ---
-title: `
+title: _
 --- 
 
 ### Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media
