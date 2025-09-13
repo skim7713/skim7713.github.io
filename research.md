@@ -17,9 +17,8 @@ The primary focus of my research is understanding how authoritarian legacies sha
    - "[Alternative Legacies of Authoritarianism: Pro-dictator Bias in Ideology.](https://doi.org/10.1177/13540688221083559)" 2023. *Party Politics*. 29(3): 580-586. 
 
 **Working Papers**
-   - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](www.sanghoonkimleffingwell.org/pixelated)" with Hyein Ko.
+   - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](http://sanghoonkimleffingwell.org/pixelated/)" with Hyein Ko.
    - "Authoritarian Nostalgia.'' In *Encyclopedia of Authoritarianism* edited by Thomas Ambrosio and Stephen Hall. Edward Elgar Publishing. 
-   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang.
    - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
    - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
 
@@ -29,6 +28,9 @@ The primary focus of my research is understanding how authoritarian legacies sha
 **Peer-reviewed publications**
   - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.](https://doi.org/10.1016/j.worlddev.2024.106566)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. [[Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH7JHS)]
   - "[Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy.](https://doi.org/10.1093/isq/sqad087)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly*. 67(4): sqad087. [[Replication files](https://dataverse.harvard.edu/dataverse/isq.)]
+
+**Working Papers**
+   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang.
 
 ----------------------
 
