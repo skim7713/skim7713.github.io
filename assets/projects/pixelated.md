@@ -1,5 +1,5 @@
 ---
-title: _
+title: <h6> Pixelated Authoritarian Nostalgia
 --- 
 
 ### Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media
