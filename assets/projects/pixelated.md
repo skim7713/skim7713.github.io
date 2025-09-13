@@ -18,7 +18,7 @@ messages associated visual images, and the variation in these features around el
 employ semantic image clustering and text topic modeling and answer how newspapers narrate
 the past using both visual and textual messages. Findings suggest the lingering polarization in
 memory construction in a post-authoritarian country.
-
+ 
 <figure>
 <img align="top" width="700" height="350" src="/assets/img/clusters.png" alt="My Image">
 <figcaption>Examples of Clustered Images of Park Chung-hee </figcaption>
