@@ -22,13 +22,13 @@ the past using both visual and textual messages. Findings suggest the lingering 
 memory construction in a post-authoritarian country.
  
 <figure>
-<img align="top" width="700" height="350" src="/assets/img/clusters.png" alt="My Image">
+<img align="top" width="800" height="350" src="/assets/img/clusters.png" alt="My Image">
 <figcaption>Examples of Clustered Images of Park Chung-hee </figcaption>
 </figure>
 <br><br />
 
 <figure>
-<img align="top" width="700" height="350" src="/assets/img/positive_image.png" alt="My Image">
+<img align="top" width="800" height="350" src="/assets/img/positive_image.png" alt="My Image">
   <figcaption>Temporal Variation in Images of Park Chung-hee: Sharp Increase around the Election</figcaption>
 </figure>
 <br><br />
