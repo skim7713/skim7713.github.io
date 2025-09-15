@@ -16,11 +16,16 @@ The primary focus of my research is understanding how authoritarian legacies sha
    - "[Personality Traits, Democratic Support, and Authoritarian Nostalgia.](https://doi.org/10.1111/ssqu.13286)" 2023. *Social Science Quarterly*. 104(5): 619-635. 
    - "[Alternative Legacies of Authoritarianism: Pro-dictator Bias in Ideology.](https://doi.org/10.1177/13540688221083559)" 2023. *Party Politics*. 29(3): 580-586. 
 
+**Book Chapters**
+   - "Authoritarian Nostalgia." In *Encyclopedia of Authoritarianism* edited by Thomas Ambrosio and Stephen Hall. Edward Elgar Publishing.
+   - "Legacies of Authoritarianism." In *Handbook of Political Socialization*, edited by Jill S. Greenlee and Zoe M. Oxley. De Gruyter.
+
 **Working Papers**
-   - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" with Hyein Ko.
-   - "Authoritarian Nostalgia.'' In *Encyclopedia of Authoritarianism* edited by Thomas Ambrosio and Stephen Hall. Edward Elgar Publishing. 
+   - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" with Hyein Ko.   
+   - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
    - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
    - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
+   - "Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan." With Risa Kitagawa and Yu-hsien Sung.
 
 ----------------------
 
