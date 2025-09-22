@@ -3,8 +3,7 @@ title: Research
 big-img: "/assets/img/legacy.jpg"
 ---
 
-My research explores authoritarian nostalgia and how it shapes voter behavior in post-authoritarian democracies. 
-The primary focus of my research is understanding how authoritarian legacies shape present-day politics in democratic elections. I am interested in the role of authoritarian nostalgia in voter attitudes and related behavior, especially in Asian democracies. In addition, I have developed a separate research project understanding the political economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China.
+My research explores authoritarian nostalgia and its impacts on post-authoritarian voter behavior. I study how the nostalgic sentiment leads to heightened partisan behavior and support for authoritarian alternatives. I further examine the nostalgia generation process with an image-as-data approache by ananlyzing the contents and context of the nostalgic rhetoric. In addition, I have developed a separate research project understanding the political economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China.
 
 ----------------------
 
