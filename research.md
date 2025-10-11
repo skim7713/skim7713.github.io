@@ -20,6 +20,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
    - "Legacies of Authoritarianism." In *Handbook of Political Socialization*, edited by Jill S. Greenlee and Zoe M. Oxley. De Gruyter.
 
 **Working Papers**
+   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang. Revise and resubmit at _Comparative Politics_
    - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" with Hyein Ko.   
    - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
    - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
@@ -33,8 +34,6 @@ My research explores authoritarian nostalgia as both an explanation for and an o
   - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.](https://doi.org/10.1016/j.worlddev.2024.106566)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. [[Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH7JHS)]
   - "[Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy.](https://doi.org/10.1093/isq/sqad087)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly*. 67(4): sqad087. [[Replication files](https://dataverse.harvard.edu/dataverse/isq.)]
 
-**Working Papers**
-   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang.
 
 ----------------------
 
