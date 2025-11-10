@@ -37,6 +37,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 
 ----------------------
 
-### Local Journalism and Political Accountability
+### Publications in other topics
 **Peer-reviewed publications**
+  - "Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe" with Younghyun Lee. (In press). _Journal of Ethnic and Migration Studies_
   - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.](https://doi.org/10.1177/19401612231186939)" with Nikki Usher. 2024. *International Journal of Press/Politics*. 29(4): 960-982. [[Replication files](https://doi.org/10.7910/DVN/2MQXWR)]
