@@ -9,6 +9,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 
 ### Authoritarian Legacies
 **Peer-reviewed publications**
+   - "Violence and Bias: The Political Legacy of Anti-Chinese Violence in Indonesia." with Yujeong Yang. (forthcoming). _Comparative Politics_
    - "[Authoritarian Nostalgia, Group Sentiment, and Voter Behavior.](https://doi.org/10.1007/s11109-024-09987-x)" 2025. *Political Behavior*. 47(3): 1231-1252. [[Replication files](https://doi.org/10.7910/DVN/WEJEGG)]
    - "[Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach.](https://doi.org/10.1080/13510347.2024.2333939)" with Emily Sallenback. 2024. *Democratization*. 31(8): 1622-1644. 
    - "[Authoritarian Legacies and Partisan Bias in Corruption Voting: Evidence from South Korea.](https://doi.org/10.1017/jea.2023.5)" 2023. *Journal of East Asian Studies*. 23(2): 241-262.
@@ -20,7 +21,6 @@ My research explores authoritarian nostalgia as both an explanation for and an o
    - "Legacies of Authoritarianism." In *Handbook of Political Socialization*, edited by Jill S. Greenlee and Zoe M. Oxley. De Gruyter.
 
 **Working Papers**
-   - "Prejudice and Protest: The Long-term Effects of Ethnic Discrimination on Anti-China Protest in Indonesia." with Yujeong Yang. Revise and resubmit at _Comparative Politics_
    - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" with Hyein Ko.   
    - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
    - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
@@ -39,5 +39,5 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 
 ### Publications in other topics
 **Peer-reviewed publications**
-  - "Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe" with Younghyun Lee. (In press). _Journal of Ethnic and Migration Studies_.
+  - "Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe" with Younghyun Lee. (forthcoming). _Journal of Ethnic and Migration Studies_.
   - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.](https://doi.org/10.1177/19401612231186939)" with Nikki Usher. 2024. *International Journal of Press/Politics*. 29(4): 960-982. [[Replication files](https://doi.org/10.7910/DVN/2MQXWR)]
