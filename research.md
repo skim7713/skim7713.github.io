@@ -9,7 +9,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 
 ### Authoritarian Legacies
 **Peer-reviewed publications**
-   - "Violence and Bias: The Political Legacy of Anti-Chinese Violence in Indonesia." with Yujeong Yang. (forthcoming). _Comparative Politics_
+   - "[Violence and Bias: The Political Legacy of Anti-Chinese Violence in Indonesia.](https://doi.org/10.5129/001041525X17653116559120)" with Yujeong Yang. _Comparative Politics_. (Online first)
    - "[Authoritarian Nostalgia, Group Sentiment, and Voter Behavior.](https://doi.org/10.1007/s11109-024-09987-x)" 2025. *Political Behavior*. 47(3): 1231-1252. [[Replication files](https://doi.org/10.7910/DVN/WEJEGG)]
    - "[Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach.](https://doi.org/10.1080/13510347.2024.2333939)" with Emily Sallenback. 2024. *Democratization*. 31(8): 1622-1644. 
    - "[Authoritarian Legacies and Partisan Bias in Corruption Voting: Evidence from South Korea.](https://doi.org/10.1017/jea.2023.5)" 2023. *Journal of East Asian Studies*. 23(2): 241-262.
