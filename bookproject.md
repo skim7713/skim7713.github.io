@@ -7,7 +7,7 @@ header:
 ---
 
 
-# The Past that Binds: Authoritarian Nostalgia, Group Sentiment, and Voter Behavior
+# The Past that Binds: Authoritarian Nostalgia, Nationalist Polarization, and Voter Behavior
 
 
  <img align="top" width="500" height="350" src="/assets/img/troika.jpeg" alt="My Image">
