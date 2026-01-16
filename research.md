@@ -3,7 +3,7 @@ title: Research
 big-img: "/assets/img/legacy.jpg"
 ---
 
-My research explores authoritarian nostalgia as both an explanation for and an outcome of political development in post-authoritarian democracies. I study how the nostalgic sentiment leads to heightened partisan behavior and support for authoritarian alternatives. I further examine the nostalgia generation process with an image-as-data approach by ananlyzing the contents and context of the nostalgic rhetoric. In addition, I have developed a separate research project understanding the political economy in East Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China.
+My research explores authoritarian nostalgia as both an explanation for and an outcome of political development in post-authoritarian democracies. I study how the nostalgic sentiment leads to heightened partisan behavior and support for authoritarian alternatives. I further examine the nostalgia generation process with an image-as-data approach by ananlyzing the contents and context of the nostalgic rhetoric. In addition, I have developed a separate research project understanding political development in Asia. This work has focused on the expansion of China’s presence in the neighboring countries and how this can shape voters’ attitudes toward China.
 
 ----------------------
 
