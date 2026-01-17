@@ -29,7 +29,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 
 ----------------------
 
-### Political Economy in Asia
+### Political Economy of Asia
 **Peer-reviewed publications**
   - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.](https://doi.org/10.1016/j.worlddev.2024.106566)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. [[Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH7JHS)]
   - "[Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy.](https://doi.org/10.1093/isq/sqad087)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly*. 67(4): sqad087. [[Replication files](https://dataverse.harvard.edu/dataverse/isq.)]
@@ -37,7 +37,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 
 ----------------------
 
-### Publications in other topics
+### Publications in Other Topics of Voter Behavior
 **Peer-reviewed publications**
   - "[Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.](https://doi.org/10.1080/1369183X.2025.2589904)" with Younghyun Lee. 2025. _Journal of Ethnic and Migration Studies_.
   - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.](https://doi.org/10.1177/19401612231186939)" with Nikki Usher. 2024. *International Journal of Press/Politics*. 29(4): 960-982. [[Replication files](https://doi.org/10.7910/DVN/2MQXWR)]
