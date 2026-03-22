@@ -21,7 +21,7 @@ My research explores authoritarian nostalgia as both an explanation for and an o
    - "Legacies of Authoritarianism." In *Handbook of Political Socialization*, edited by Jill S. Greenlee and Zoe M. Oxley. De Gruyter.
 
 **Ongoing Projects**
-   - Projects on the effects of deepfakes on voters' nostalgic sentiment with Hyein Ko (Case Western Reserve University)
+   - Projects on images and nostalgia generation (with Hyein Ko, _Case Western Reserve University_)
       - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" 
       - "Synthetic Nostalgia: Deepfake Resurrections of Dictators and the Politics of Memory." 
    - Projects on nostalgic voter behavior
