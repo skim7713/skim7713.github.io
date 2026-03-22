@@ -8,8 +8,8 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 ----------------------
 
 ### Authoritarian Legacies
-**Peer-reviewed publications**
-   - "[Violence and Bias: The Political Legacy of Anti-Chinese Violence in Indonesia.](https://doi.org/10.5129/001041525X17653116559120)" with Yujeong Yang. _Comparative Politics_. (Online first)
+**Peer-reviewed Publications**
+   - "[Violence and Bias: The Political Legacy of Anti-Chinese Violence in Indonesia.](https://doi.org/10.5129/001041525X17653116559120)" with Yujeong Yang. _Comparative Politics_. 58(3): 313-338.
    - "[Authoritarian Nostalgia, Group Sentiment, and Voter Behavior.](https://doi.org/10.1007/s11109-024-09987-x)" 2025. *Political Behavior*. 47(3): 1231-1252. [[Replication files](https://doi.org/10.7910/DVN/WEJEGG)]
    - "[Mnemonic Politics among Philippine Voters: A Social Media Measurement Approach.](https://doi.org/10.1080/13510347.2024.2333939)" with Emily Sallenback. 2024. *Democratization*. 31(8): 1622-1644. 
    - "[Authoritarian Legacies and Partisan Bias in Corruption Voting: Evidence from South Korea.](https://doi.org/10.1017/jea.2023.5)" 2023. *Journal of East Asian Studies*. 23(2): 241-262.
@@ -20,17 +20,21 @@ My research explores authoritarian nostalgia as both an explanation for and an o
    - "Authoritarian Nostalgia." In *Encyclopedia of Authoritarianism* edited by Thomas Ambrosio and Stephen Hall. Edward Elgar Publishing.
    - "Legacies of Authoritarianism." In *Handbook of Political Socialization*, edited by Jill S. Greenlee and Zoe M. Oxley. De Gruyter.
 
-**Working Papers**
-   - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" with Hyein Ko.   
-   - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
-   - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
-   - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
-   - "Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan." With Risa Kitagawa and Yu-hsien Sung.
+**Ongoing Projects**
+   - Projects on the effects of deepfakes on voters' nostalgic sentiment with Hyein Ko (Case Western Reserve University)
+      - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" 
+      - "Synthetic Nostalgia: Deepfake Resurrections of Dictators and the Politics of Memory." 
+   - Projects on nostalgic voter behavior
+      - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
+      - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
+      - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
+   - Projects on memory politics in post-authoritarian democracies
+      - "Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan." With Risa Kitagawa and Yu-hsien Sung.
 
 ----------------------
 
 ### Political Economy of Asia
-**Peer-reviewed publications**
+**Peer-reviewed Publications**
   - "[Money Backfires: How Chinese Investment Fuels Anti-China Protests Abroad.](https://doi.org/10.1016/j.worlddev.2024.106566)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2024. *World Development*. 178: 106566. [[Replication files](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CH7JHS)]
   - "[Killing Protests with Kindness: Anti-China Protests and China's Public Diplomacy.](https://doi.org/10.1093/isq/sqad087)" with Yujeong Yang, Do Young Gong, and Shuyuan Shen. 2023. *International Studies Quarterly*. 67(4): sqad087. [[Replication files](https://dataverse.harvard.edu/dataverse/isq.)]
 
@@ -38,6 +42,6 @@ My research explores authoritarian nostalgia as both an explanation for and an o
 ----------------------
 
 ### Publications in Other Topics of Voter Behavior
-**Peer-reviewed publications**
+**Peer-reviewed Publications**
   - "[Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.](https://doi.org/10.1080/1369183X.2025.2589904)" with Younghyun Lee. 2025. _Journal of Ethnic and Migration Studies_.
   - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.](https://doi.org/10.1177/19401612231186939)" with Nikki Usher. 2024. *International Journal of Press/Politics*. 29(4): 960-982. [[Replication files](https://doi.org/10.7910/DVN/2MQXWR)]
