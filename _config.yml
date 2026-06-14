@@ -138,7 +138,7 @@ navbar-var-length: false
 # 125d0d forest green
 page-col: "#FFFFFF"
 text-col: "#333333"
-link-col: "#00853E"
+link-col: "#153a73"
 hover-col: "#455A64"
 navbar-col: "#13294b"
 navbar-text-col: "#ffffff"
