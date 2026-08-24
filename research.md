@@ -43,5 +43,5 @@ My research explores authoritarianism and its legacies in post-authoritarian dem
 
 ### Publications in Other Topics of Voter Behavior
 **Peer-reviewed Publications**
-  - "[Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.](https://doi.org/10.1080/1369183X.2025.2589904)" with Younghyun Lee. 2025. _Journal of Ethnic and Migration Studies_.
+  - "[Engaged but Targeted? How Immigrants Vote Against Anti-Immigrant Agendas in Europe.](https://doi.org/10.1080/1369183X.2025.2589904)" with Younghyun Lee. 2026. _Journal of Ethnic and Migration Studies_. 52(13): 3323-3347.
   - "[How Loud Does the Watchdog Bark? A Reconsideration of Local Journalism, News Non-profits, and Political Corruption.](https://doi.org/10.1177/19401612231186939)" with Nikki Usher. 2024. *International Journal of Press/Politics*. 29(4): 960-982. [[Replication files](https://doi.org/10.7910/DVN/2MQXWR)]
