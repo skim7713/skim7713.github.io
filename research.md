@@ -23,7 +23,7 @@ My research explores authoritarianism and its legacies in post-authoritarian dem
 **Ongoing Projects**
    - Projects on images, deepfakes, and nostalgia generation (with Hyein Ko, _Case Western Reserve University_)
       - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" 
-      - "Synthetic Nostalgia: Deepfake Resurrections of Dictators and the Politics of Memory." 
+      - "[Synthetic Nostalgia: Deepfake Resurrections of Dictators and the Politics of Memory.](https://sanghoonkimleffingwell.org/assets/projects/synthetic/)" 
    - Projects on nostalgic voter behavior
       - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
       - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
