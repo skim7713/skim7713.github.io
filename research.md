@@ -25,12 +25,12 @@ My research explores authoritarianism and its legacies in post-authoritarian dem
       - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" 
       - "[Synthetic Nostalgia: Deepfake Resurrections of Dictators and the Politics of Memory.](https://sanghoonkimleffingwell.org/assets/projects/synthetic/)" 
    - Projects on nostalgic voter behavior
-      - "Authoritarian Nostalgia and Partisan Attachment." with Sunkyoung Park.
-      - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
+      - "[Authoritarian Nostalgia and Partisan Attachment.](https://sanghoonkimleffingwell.org/assets/projects/anparty/)" with Sunkyoung Park.
+      - "[Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia.](https://sanghoonkimleffingwell.org/assets/projects/tooyoung/)" 
       - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
    - Projects on memory politics in post-authoritarian democracies
-      - "Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan." with Risa Kitagawa and Yu-hsien Sung.
-      - "Victimization as a Source of Political Contestation: Evidence from State Repression in South Korea." with Myunghee Lee and Hyunjin An.
+      - "[Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan.](https://sanghoonkimleffingwell.org/assets/projects/lastones/)" with Risa Kitagawa and Yu-hsien Sung.
+      - "[Victimization as a Source of Political Contestation: Evidence from State Repression in South Korea.](https://sanghoonkimleffingwell.org/assets/projects/victimization/)" with Myunghee Lee and Hyunjin An.
 
 ----------------------
 
