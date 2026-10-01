@@ -21,7 +21,7 @@ My research explores authoritarianism and its legacies in post-authoritarian dem
    - "Legacies of Authoritarianism." In *Handbook of Political Socialization*, edited by Jill S. Greenlee and Zoe M. Oxley. De Gruyter.
 
 **Ongoing Projects**
-   - Projects on images and nostalgia generation (with Hyein Ko, _Case Western Reserve University_)
+   - Projects on images, deepfakes, and nostalgia generation (with Hyein Ko, _Case Western Reserve University_)
       - "[Pixelated Authoritarian Nostalgia: The Use of Nostalgic Rhetoric of Former Dictators in the Media.](https://sanghoonkimleffingwell.org/assets/projects/pixelated/)" 
       - "Synthetic Nostalgia: Deepfake Resurrections of Dictators and the Politics of Memory." 
    - Projects on nostalgic voter behavior
@@ -29,7 +29,8 @@ My research explores authoritarianism and its legacies in post-authoritarian dem
       - "Too Young to be Nostalgic?: Young Voters and the Rise in Authoritarian Nostalgia." 
       - "Right in the Past, Left in the Present?: Ideological Orientation and Political Nostalgia."
    - Projects on memory politics in post-authoritarian democracies
-      - "Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan." With Risa Kitagawa and Yu-hsien Sung.
+      - "Last Ones Standing: Local Politics and Authoritarian Symbol Removal in Taiwan." with Risa Kitagawa and Yu-hsien Sung.
+      - "Victimization as a Source of Political Contestation: Evidence from State Repression in South Korea." with Myunghee Lee and Hyunjin An.
 
 ----------------------
 
